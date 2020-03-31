@@ -517,7 +517,7 @@ background-image:url(../images/be.png);
 	background-color: #ffffff;
 	position: absolute;
 	right: 0px;
-	top:-130px ;
+	top:-138px ;
 }
 #contact .container div >form >div >div >div >label{
 	font-family: "QuattrocentoSans-Bold", sans-serif;
@@ -606,7 +606,7 @@ footer .container>ul{
 }
 footer .container>ul>li{
 	display: inline-block;
-	margin: 40px 0px 40px 20px ;
+	margin: 30px 0px 35px 20px ;
 }
 footer .container>ul>li:first-child{
 	margin-left: 0px;
