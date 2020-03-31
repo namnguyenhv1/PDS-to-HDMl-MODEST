@@ -245,7 +245,7 @@ background-image:url(../images/be.png);
 	background-color: #3a454d;
 }
 #team #team-wrapper >div:hover img{
-	opacity: 0.7;
+	opacity: 0.4;
 }
 #team #team-wrapper >div:hover .mask{
 	display: block;
@@ -582,6 +582,7 @@ background-image:url(../images/be.png);
 	background-color: #23b7a4;
 	border: none;
 	border-radius: 3px;
+	cursor: pointer;
 }
 /* -----------------footer--------------------------- */
 footer{
